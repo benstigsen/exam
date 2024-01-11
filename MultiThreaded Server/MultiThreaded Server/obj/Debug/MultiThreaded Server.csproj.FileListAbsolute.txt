@@ -1,0 +1,7 @@
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\bin\Debug\MultiThreaded Server.exe
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\bin\Debug\MultiThreaded Server.pdb
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\obj\Debug\MultiThreaded Server.exe
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\obj\Debug\MultiThreaded Server.pdb
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\bin\Debug\MultiThreaded Server.exe.config
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\obj\Debug\MultiThreaded Server.csproj.CoreCompileInputs.cache
+X:\projects\C#\MultiThreaded Server\MultiThreaded Server\obj\Debug\MultiThreaded Server.csproj.AssemblyReference.cache
